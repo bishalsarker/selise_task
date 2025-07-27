@@ -1,0 +1,6 @@
+@SeliseTaskManager_HostAddress = http://localhost:5078
+
+GET {{SeliseTaskManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
