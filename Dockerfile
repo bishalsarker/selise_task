@@ -10,7 +10,6 @@ COPY ["src/SeliseTaskManager.API/SeliseTaskManager.API.csproj", "SeliseTaskManag
 COPY ["src/SeliseTaskManager.Application/SeliseTaskManager.Application.csproj", "SeliseTaskManager.Application/"]
 COPY ["src/SeliseTaskManager.Domain/SeliseTaskManager.Domain.csproj", "SeliseTaskManager.Domain/"]
 COPY ["src/SeliseTaskManager.Infrastructure/SeliseTaskManager.Infrastructure.csproj", "SeliseTaskManager.Infrastructure/"]
-COPY ["src/SeliseTaskManager.Shared/SeliseTaskManager.Shared.csproj", "SeliseTaskManager.Shared/"]
 
 # Restore dependencies
 RUN dotnet restore "SeliseTaskManager.API/SeliseTaskManager.API.csproj"
