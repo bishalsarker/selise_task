@@ -3,23 +3,23 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copy solution file
-COPY ["src/FlyerBuy.sln", "./"]
+COPY ["src/SeliseTaskManager.sln", "./"]
 
 # Copy project files
-COPY ["src/FlyerBuy.API/FlyerBuy.API.csproj", "FlyerBuy.API/"]
-COPY ["src/FlyerBuy.Application/FlyerBuy.Application.csproj", "FlyerBuy.Application/"]
-COPY ["src/FlyerBuy.Domain/FlyerBuy.Domain.csproj", "FlyerBuy.Domain/"]
-COPY ["src/FlyerBuy.Infrastructure/FlyerBuy.Infrastructure.csproj", "FlyerBuy.Infrastructure/"]
-COPY ["src/FlyerBuy.Shared/FlyerBuy.Shared.csproj", "FlyerBuy.Shared/"]
+COPY ["src/SeliseTaskManager.API/SeliseTaskManager.API.csproj", "SeliseTaskManager.API/"]
+COPY ["src/SeliseTaskManager.Application/SeliseTaskManager.Application.csproj", "SeliseTaskManager.Application/"]
+COPY ["src/SeliseTaskManager.Domain/SeliseTaskManager.Domain.csproj", "SeliseTaskManager.Domain/"]
+COPY ["src/SeliseTaskManager.Infrastructure/SeliseTaskManager.Infrastructure.csproj", "SeliseTaskManager.Infrastructure/"]
+COPY ["src/SeliseTaskManager.Shared/SeliseTaskManager.Shared.csproj", "SeliseTaskManager.Shared/"]
 
 # Restore dependencies
-RUN dotnet restore "FlyerBuy.API/FlyerBuy.API.csproj"
+RUN dotnet restore "SeliseTaskManager.API/SeliseTaskManager.API.csproj"
 
 # Copy the rest of the code
 COPY src/. ./
 
 # Publish the API project
-RUN dotnet publish "FlyerBuy.API/FlyerBuy.API.csproj" -c Release -o /app/publish
+RUN dotnet publish "SeliseTaskManager.API/SeliseTaskManager.API.csproj" -c Release -o /app/publish
 
 # Stage 2: Run
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
@@ -35,4 +35,4 @@ EXPOSE 80
 ENV ASPNETCORE_URLS=http://+:80
 
 # Run the app
-ENTRYPOINT ["dotnet", "FlyerBuy.API.dll"]
+ENTRYPOINT ["dotnet", "SeliseTaskManager.API.dll"]
