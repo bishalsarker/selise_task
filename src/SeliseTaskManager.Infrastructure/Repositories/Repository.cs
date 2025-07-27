@@ -1,8 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Npgsql;
 using SeliseTaskManager.Application.Interfaces.Common;
+using SeliseTaskManager.Application.Interfaces.Models;
 using SeliseTaskManager.Infrastructure.Persistence;
 using System.Data;
+using System.Linq.Expressions;
 
 namespace SeliseTaskManager.Infrastructure.Repositories
 {
@@ -44,27 +46,25 @@ namespace SeliseTaskManager.Infrastructure.Repositories
             return table.Count();
         }
 
-        //public async Task<IList<T>> Query(Expression<Func<T, bool>>? query, PaginationFilter paginationFilter = default!)
-        //{
-        //    if (paginationFilter is null)
-        //        paginationFilter = new PaginationFilter();
+        public async Task<(IList<T>, int TotalCount)> Query(
+            Expression<Func<T, bool>>? query, PaginationFilter paginationFilter = default!)
+        {
+            if (paginationFilter is null)
+                paginationFilter = new PaginationFilter();
 
-        //    var skip = (paginationFilter.PageNumber - 1) * paginationFilter.PageSize;
+            var skip = (paginationFilter.PageNumber - 1) * paginationFilter.PageSize;
+            query ??= q => true;
 
-        //    if (query != null)
-        //    {
-        //        return await table
-        //            .Where(query)
-        //            .Take(paginationFilter.PageSize)
-        //            .Skip(skip)
-        //            .ToListAsync();
-        //    }
+            var querable = table
+                    .Where(query)
+                    .Take(paginationFilter.PageSize)
+                    .Skip(skip);
 
-        //    return await table
-        //            .Take(paginationFilter.PageSize)
-        //            .Skip(skip)
-        //            .ToListAsync();
-        //}
+            var count = await querable.CountAsync();
+            var items = await querable.ToListAsync();
+
+            return (items, count);
+        }
 
         public async Task AddAsync(T obj)
         {

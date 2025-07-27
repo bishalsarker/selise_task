@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|solutionrelative:src\\selisetaskmanager\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\teams\\createteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\teams\\createteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\tasks\\gettaskquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\tasks\\gettaskquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|solutionrelative:src\\selisetaskmanager\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\tasks\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\tasks\\taskresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\task\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\task\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\teams\\teamresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\teams\\teamresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\team\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\team\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\teams\\updateteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\teams\\updateteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|solutionrelative:src\\selisetaskmanager\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\persistence\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\persistence\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\user\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\user\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\auth\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\auth\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,44 +63,100 @@
       "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\interfaces\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\interfaces\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\tasks\\deletetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\tasks\\deletetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\team\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\team\\teamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\tasks\\updatetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\tasks\\updatetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\task\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\task\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\selisetaskmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\selisetaskmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|solutionrelative:src\\selisetaskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\tasks\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\tasks\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\task\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\task\\taskstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\user\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\user\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\teams\\createteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\teams\\createteamcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\models\\paginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\models\\paginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\interfaces\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\interfaces\\common\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\common\\predicatebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\common\\predicatebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\common\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\common\\interfaces\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\auth\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\auth\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.application\\models\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3D0F5F-72EF-43DF-AB2D-1EA09EA55F38}|src\\SeliseTaskManager.Application\\SeliseTaskManager.Application.csproj|solutionrelative:src\\selisetaskmanager.application\\models\\paginationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|solutionrelative:src\\selisetaskmanager\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B09FD7D-2F92-2DF5-74F4-BC131B89B21C}|src\\SeliseTaskManager\\SeliseTaskManager.API.csproj|solutionrelative:src\\selisetaskmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\common\\dto\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\common\\dto\\apiexceptionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\common\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDCACB5-BAB3-4D25-A266-7368D9B39D87}|src\\SeliseTaskManager.Domain\\SeliseTaskManager.Domain.csproj|solutionrelative:src\\selisetaskmanager.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|d:\\work\\projects\\selise_task\\selisetaskmanager\\src\\selisetaskmanager.infrastructure\\selisetaskmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B73DEBFE-6F2D-4BE5-8813-2FB587431B69}|src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj|solutionrelative:src\\selisetaskmanager.infrastructure\\selisetaskmanager.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,137 +174,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Common\\BaseEntity.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T08:13:49.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\Program.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager\\Program.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\Program.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T08:01:59.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Startup.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Startup.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Startup.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAA7AAAAAAAAAA==",
+              "Title": "TeamResponse.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Teams\\TeamResponse.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Teams\\TeamResponse.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Teams\\TeamResponse.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Teams\\TeamResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T07:10:58.378Z",
+              "WhenOpened": "2025-07-27T10:25:59.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Task\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Task\\TaskEntity.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Task\\TaskEntity.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Task\\TaskEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:30:00.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\Controllers\\TaskController.cs*",
+              "RelativeToolTip": "src\\SeliseTaskManager\\Controllers\\TaskController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:57:38.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskResponse.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Tasks\\TaskResponse.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Tasks\\TaskResponse.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Tasks\\TaskResponse.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Tasks\\TaskResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:40:01.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TeamController.cs",
               "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\Controllers\\TeamController.cs",
               "RelativeDocumentMoniker": "src\\SeliseTaskManager\\Controllers\\TeamController.cs",
               "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\Controllers\\TeamController.cs",
               "RelativeToolTip": "src\\SeliseTaskManager\\Controllers\\TeamController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T08:40:52.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEntity.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Common\\IEntity.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Common\\IEntity.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Common\\IEntity.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Common\\IEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T08:13:46.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateTeamCommand.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Teams\\CreateTeamCommand.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Teams\\CreateTeamCommand.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Teams\\CreateTeamCommand.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Teams\\CreateTeamCommand.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA5wCQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T08:21:08.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T06:34:51.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "20250727081439_Init_Table.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAuAAAAAAAAAA==",
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Persistence\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Persistence\\DbSeeder.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Persistence\\DbSeeder.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Persistence\\DbSeeder.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T08:14:40.062Z",
+              "WhenOpened": "2025-07-27T11:45:46.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Repositories\\Repository.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Title": "UpdateTeamCommand.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Teams\\UpdateTeamCommand.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Teams\\UpdateTeamCommand.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Teams\\UpdateTeamCommand.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Teams\\UpdateTeamCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T08:24:50.722Z",
+              "WhenOpened": "2025-07-27T10:15:21.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTaskQuery.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Tasks\\GetTaskQuery.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Tasks\\GetTaskQuery.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Tasks\\GetTaskQuery.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Tasks\\GetTaskQuery.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:39:01.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamEntity.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Team\\TeamEntity.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Team\\TeamEntity.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Team\\TeamEntity.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Team\\TeamEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:28:57.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Interfaces\\Common\\IRepository.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Interfaces\\Common\\IRepository.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Interfaces\\Common\\IRepository.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Interfaces\\Common\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAoAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T08:26:03.138Z",
+              "WhenOpened": "2025-07-27T09:35:01.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\User\\UserRoles.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\User\\UserRoles.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\User\\UserRoles.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\User\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:27:19.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Auth\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Auth\\JwtTokenService.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Auth\\JwtTokenService.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Auth\\JwtTokenService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:18:17.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:43:33.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Startup.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Startup.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwBkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T07:10:58.378Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\User\\UserEntity.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\User\\UserEntity.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\User\\UserEntity.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\User\\UserEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:25:30.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager\\Program.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\Program.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:01:59.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Startup.cs",
               "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Startup.cs",
@@ -233,7 +395,280 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
+              "Title": "UpdateTaskCommand.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Tasks\\UpdateTaskCommand.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Tasks\\UpdateTaskCommand.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Tasks\\UpdateTaskCommand.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Tasks\\UpdateTaskCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:34:22.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteTaskCommand.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Tasks\\DeleteTaskCommand.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Tasks\\DeleteTaskCommand.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Tasks\\DeleteTaskCommand.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Tasks\\DeleteTaskCommand.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:37:18.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateTaskCommand.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Tasks\\CreateTaskCommand.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Tasks\\CreateTaskCommand.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Tasks\\CreateTaskCommand.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Tasks\\CreateTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T11:26:11.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaginationResponse.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Models\\PaginationResponse.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Models\\PaginationResponse.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Models\\PaginationResponse.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Models\\PaginationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:28:40.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskStatus.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Task\\TaskStatus.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Task\\TaskStatus.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Task\\TaskStatus.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Task\\TaskStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:30:52.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateTeamCommand.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Teams\\CreateTeamCommand.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Teams\\CreateTeamCommand.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Teams\\CreateTeamCommand.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Teams\\CreateTeamCommand.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA3wCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:21:08.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:04:59.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:39:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Interfaces\\Common\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Interfaces\\Common\\IRepository.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Interfaces\\Common\\IRepository.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Interfaces\\Common\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:26:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PredicateBuilder.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Common\\PredicateBuilder.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Common\\PredicateBuilder.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Common\\PredicateBuilder.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Common\\PredicateBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:34:18.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Common\\Interfaces\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Common\\Interfaces\\IJwtTokenService.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Common\\Interfaces\\IJwtTokenService.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Common\\Interfaces\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:16:42.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:38:20.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TokenRequest.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Auth\\TokenRequest.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Auth\\TokenRequest.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Auth\\TokenRequest.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Auth\\TokenRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:56:38.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaginationFilter.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Models\\PaginationFilter.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Application\\Models\\PaginationFilter.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Application\\Models\\PaginationFilter.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Application\\Models\\PaginationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:43:30.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager\\appsettings.Development.json",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\appsettings.Development.json",
+              "RelativeToolTip": "src\\SeliseTaskManager\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T09:21:49.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager\\appsettings.json",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\appsettings.json",
+              "RelativeToolTip": "src\\SeliseTaskManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T07:58:05.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApiExceptionResponse.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Common\\DTO\\ApiExceptionResponse.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Common\\DTO\\ApiExceptionResponse.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Common\\DTO\\ApiExceptionResponse.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Common\\DTO\\ApiExceptionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T09:07:17.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Common\\IEntity.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Common\\IEntity.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Common\\IEntity.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Common\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:13:46.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:13:49.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:34:51.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250727081439_Init_Table.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs",
+              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs",
+              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs",
+              "RelativeToolTip": "src\\SeliseTaskManager.Infrastructure\\Migrations\\20250727081439_Init_Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T08:14:40.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "SeliseTaskManager.Infrastructure",
               "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj",
               "RelativeDocumentMoniker": "src\\SeliseTaskManager.Infrastructure\\SeliseTaskManager.Infrastructure.csproj",
@@ -242,84 +677,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-27T08:12:43.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TaskEntity.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Task\\TaskEntity.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Task\\TaskEntity.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Task\\TaskEntity.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Task\\TaskEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T06:30:00.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TeamEntity.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Team\\TeamEntity.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Team\\TeamEntity.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Team\\TeamEntity.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Team\\TeamEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T06:28:57.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\User\\UserEntity.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\User\\UserEntity.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\User\\UserEntity.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\User\\UserEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T06:25:30.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TaskStatus.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Task\\TaskStatus.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\Task\\TaskStatus.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\Task\\TaskStatus.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\Task\\TaskStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T06:30:52.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserRoles.cs",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\User\\UserRoles.cs",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager.Domain\\User\\UserRoles.cs",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager.Domain\\User\\UserRoles.cs",
-              "RelativeToolTip": "src\\SeliseTaskManager.Domain\\User\\UserRoles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T06:27:19.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\SeliseTaskManager\\appsettings.json",
-              "ToolTip": "D:\\Work\\Projects\\selise_task\\SeliseTaskManager\\src\\SeliseTaskManager\\appsettings.json",
-              "RelativeToolTip": "src\\SeliseTaskManager\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-27T07:58:05.293Z",
               "EditorCaption": ""
             }
           ]

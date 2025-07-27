@@ -1,4 +1,6 @@
-﻿using System.Data;
+﻿using SeliseTaskManager.Application.Interfaces.Models;
+using System.Data;
+using System.Linq.Expressions;
 
 namespace SeliseTaskManager.Application.Interfaces.Common
 {
@@ -10,9 +12,9 @@ namespace SeliseTaskManager.Application.Interfaces.Common
         Task<bool> SaveAsync();
         int GetCount(Func<T, bool>? query);
 
-        //Task<IList<T>> Query(
-        //    Expression<Func<T, bool>>? query,
-        //    PaginationFilter paginationFilter = default!);
+        Task<(IList<T>, int TotalCount)> Query(
+            Expression<Func<T, bool>>? query,
+            PaginationFilter paginationFilter = default!);
 
         IDbConnection GetDbConnection();
         Task<IEnumerable<T>> GetAll();

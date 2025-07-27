@@ -2,7 +2,6 @@
 {
     public enum UserRoles
     {
-        NotAssigned,
         Admin,
         Manager,
         Emplyee

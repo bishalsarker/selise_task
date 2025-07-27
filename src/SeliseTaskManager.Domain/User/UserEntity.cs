@@ -8,7 +8,9 @@ namespace SeliseTaskManager.Domain.User
     {
         public string FullName { get; set; } = default!;
         public string Email { get; set; } = default!;
-        public UserRoles Role { get; set; } = UserRoles.NotAssigned;
+        public string Password { get; set; } = default!;
+        public UserRoles Role { get; set; } = 0;
+
 
         // Navigation Properties
         public ICollection<TaskEntity> CreatedTasks { get; set; } = default!;
